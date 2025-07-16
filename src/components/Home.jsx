@@ -6,6 +6,7 @@ function Home() {
     const [count, setCount] = useState(0)
   return (
     <div>
+      <h1>Hello world</h1>
       <h1>Lakshman's Vite + React App</h1>
       <span role="img" aria-label="rocket">🚀</span>   
       <div>
